@@ -1,4 +1,4 @@
-"StudentName", "Advisor", "StudentID", "Major", "Year"
+"Name", "Advisor", "StudentID", "Major", "Year"
 "Jordan", "Dr. Smith", "1001", "Biology", "Sophomore"
 "Taylor", "Prof. Johnson", "1002", "Mathematics", "Junior"
 "Alex", "Dr. Davis", "1003", "Computer Science", "Senior"
