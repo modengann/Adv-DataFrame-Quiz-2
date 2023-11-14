@@ -1,4 +1,4 @@
-"StudentName","ExamSession","ScoreAchieved","MaxScore","Percentage", "SemesterGrade"
+"StudentName","ExamSession","PointsEarned","PointsPossible","Percentage", "SemesterGrade"
 "Jordan", "Session01", "45", "50", "90", ""
 "Jordan", "Session02", "43", "50", "86", ""
 "Jordan", "Session03", "44", "50", "88", ""
