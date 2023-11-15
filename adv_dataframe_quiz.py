@@ -13,7 +13,7 @@ def merge_data(left, right):
     pass
 
 def main():
-    test_data = pd.read_csv("student_test_data.csv")
+    test_data = pd.read_csv("student_grade_data.csv")
     test_data = remove_empty_col(test_data)
     test_data = remove_any_missing_row(test_data)
     largest = max_score(test_data)
